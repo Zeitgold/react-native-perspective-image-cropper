@@ -8,8 +8,6 @@
 node_modules/
 npm-debug.log
 yarn-error.log
-opencv2.framework  
-opencv2.framework/
 # Xcode
 #
 build/
